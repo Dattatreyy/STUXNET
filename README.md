@@ -42,5 +42,16 @@ Dump the ESI register with the same offset to find the payload
 
 <img width="760" alt="nrl3" src="https://user-images.githubusercontent.com/107531426/205477845-96ae2d37-f883-4941-a1b9-729986d6a388.PNG">
 
+This is our new UPXed Payload that we just extract !!!
+
+<img width="460" alt="nrl3" src="https://user-images.githubusercontent.com/107531426/205479401-051889e8-bae3-43e2-a010-7047c0eb3202.PNG">
+
+<img width="760" alt="nrl3" src="https://user-images.githubusercontent.com/107531426/205479472-3032b226-c204-4622-acfb-6fa9599edfdd.PNG">
+
+<img width="760" alt="nrl3" src="https://user-images.githubusercontent.com/107531426/205479477-be59342c-edae-4e23-adba-375115a9b6c8.PNG">
+
+<img width="460" alt="nrl3" src="https://user-images.githubusercontent.com/107531426/205479482-af363385-fde1-4fce-aa1f-87859e374d0d.PNG">
+
+
 
 
